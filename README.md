@@ -77,9 +77,6 @@ I have documented the entire process on my YouTube channel **Tech Bro Eghosa**. 
 - Optimize **incremental loads** for larger datasets.
 - Deploy the project using **Azure DevOps** for CI/CD automation.
 
-## Acknowledgments
-Big thanks to **Mr. K Talks Tech** for inspiring this project! It has been an incredible learning experience, helping me consolidate my skills in **data engineering with Microsoft Fabric**.
-
 ## Next Steps
 I am now preparing for the **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** certification to further deepen my expertise in Microsoft Fabric.
 
