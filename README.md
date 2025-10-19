@@ -56,6 +56,8 @@ The Power BI report provides insights on:
 - **Overall sentiment** of news articles on the TikTok ban.
 - **Trends over time** showing changes in public sentiment.
 - **Geographical insights** on how different regions report on the topic.
+![PowerBi Dashboard](https://raw.githubusercontent.com/Austinteghs/Tit-Tok-ban-DE-Project-on-Microsoft-Fabric/refs/heads/main/Tik%20Tok%20ban%20Dashboard.png)
+
 
 ## How to Run This Project
 1. Clone this repository:
