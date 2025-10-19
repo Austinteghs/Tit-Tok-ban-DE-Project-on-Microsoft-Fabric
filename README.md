@@ -38,7 +38,7 @@ The project consists of the following key phases:
 6. **Pipeline Orchestration**: Automating workflows using **Data Factory**.
 7. **Alerts & Monitoring**: Setting up real-time alerts with **Data Activator**.
    
-![Data Engineering vs Software Engineering (6)](https://github.com/Austinteghs/Tit-Tok-ban-DE-Project-on-Microsoft-Fabric/blob/main/architecture%20diagram.gif?raw=true)
+![Architecture Diagram](https://github.com/Austinteghs/Tit-Tok-ban-DE-Project-on-Microsoft-Fabric/blob/main/architecture%20diagram.gif?raw=true)
 
 ## Folder Structure
 ```
